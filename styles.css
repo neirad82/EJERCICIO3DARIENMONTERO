@@ -15,7 +15,7 @@ p{
 
 }
 
-p.marca:hover{
+.marca:hover{
    color: green;
 }
 
@@ -25,6 +25,6 @@ p.marca:hover{
 }
 
 
-p.as:hover{
+.as:hover{
    color: red;
 }
